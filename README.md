@@ -1,8 +1,8 @@
 # Maxwell
 
-~~Open-Source~~ Source Available Maxwell the Cat information (originally named "dingus")
+Source Available Maxwell the Cat information (originally named "dingus")
 
-Here for the webpage? Check out https://leodog896.github.io/maxwell.
+Here for the webpage? Check out https://tristan-f-r.github.io/maxwell.
 
 ## Where does maxwell originate?
 
